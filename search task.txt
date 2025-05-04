@@ -1,7 +1,7 @@
 int X = 10;
 int Y = 20;
 Console.WriteLine($"Equation: {X} + {Y} = {X + Y:C}");
-1- Currency Format ":c" make the result show as a dollaars or Egyptin pound or any onther Country currency.
+1-  Make Concatnation and Currency Format ":c" make the result show as a dollaars or Egyptin pound or any onther Country currency.
 2- benfits like:
 - Good Format for any programmer 
 - Easy to write it 
